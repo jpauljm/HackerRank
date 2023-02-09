@@ -2,5 +2,6 @@
 
 My personal path into HackerRank using Swift and ObjC.
 
-[Swift](Swift) 
-[ObjC](#ObjC)
+### SimpleArraySum
+[Swift](Swift/SimpleArraySum.swift) 
+[ObjC](ObjC/SimpleArraySum.m)
