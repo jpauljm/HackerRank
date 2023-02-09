@@ -1,6 +1,6 @@
 /*
 Write a program that prints a staircase of size n.
-Eg.: This is a staircase of size n=4
+Eg.: Staircase of size n=4
    #
   ##
  ###
