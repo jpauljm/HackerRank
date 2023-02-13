@@ -26,10 +26,13 @@ Compare 2 triplets and return the result in points.
 
 ### Staircase
 Write a program that prints a staircase of size n.
-Eg.: Staircase of size n=4
-   #
-  ##
- ###
-####
 [Swift](Swift/Staircase.swift) 
 [ObjC](ObjC/DiagonalDifference.m)
+
+### MinMaxSum
+Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.
+[Swift](Swift/MinMaxSum.swift)
+
+### BirthdayCakeCandles
+Given an array with all candle's sizes, return how many candles are tallest.
+[Swift](Swift/BirthdayCakeCandles.swift)
