@@ -36,3 +36,7 @@ Given five positive integers, find the minimum and maximum values that can be ca
 ### BirthdayCakeCandles
 Given an array with all candle's sizes, return how many candles are tallest.
 [Swift](Swift/BirthdayCakeCandles.swift)
+
+### ApplesAndOranges
+Given the value of d for m apples and n oranges, determine how many apples and oranges will fall on Sam's house (i.e., in the inclusive range [s,t]).
+[Swift](Swift/ApplesAndOranges.swift)
