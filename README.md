@@ -40,3 +40,7 @@ Given an array with all candle's sizes, return how many candles are tallest.
 ### ApplesAndOranges
 Given the value of d for m apples and n oranges, determine how many apples and oranges will fall on Sam's house (i.e., in the inclusive range [s,t]).
 [Swift](Swift/ApplesAndOranges.swift)
+
+### QueenMovement
+You will be given a square chess board with one queen on it. Determine how many squares the queen can move.
+[Swift](Swift/QueenMovement.swift)
