@@ -1,0 +1,6 @@
+https://www.hackerrank.com/challenges/matching-anything-but-new-line/
+
+You have a test string S.
+Your task is to write a regular expression that matches only and exactly strings of form: xxx.xxx.xxx.xxx, where x can be any single character except the newline.
+
+^(.{3}[.]){3}.{3}$
